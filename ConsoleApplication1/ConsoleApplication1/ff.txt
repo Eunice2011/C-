@@ -56,3 +56,5 @@ and i'll tell you all about it when i see you again.
 we've come a long way from where we began.
 oh i'll tell you all about it when i see you again.
 when i see you again~
+
+Edit for studying git.
